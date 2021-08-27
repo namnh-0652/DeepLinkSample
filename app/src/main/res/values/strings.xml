@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DeepLinkSample</string>
+    <string name="generate_dynamic_link">Generate Dynamic Link</string>
+    <string name="custom_query_value">Custom Query Value</string>
 </resources>
